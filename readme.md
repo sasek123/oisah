@@ -14,7 +14,7 @@ A modern web application for generating random case battles with customizable se
 
 ## 🚀 Live Demo
 
-Visit the live application: [Case Battle Generator](https://yourusername.github.io/oisah)
+Visit the live application: [Case Battle Generator](https://sasek123.github.io/oisah)
 
 ## 🎯 How to Use
 
